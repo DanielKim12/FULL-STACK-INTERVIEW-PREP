@@ -1,10 +1,6 @@
 # FULL-STACK-INTERVIEW-PREP
 
 ## <a name='toc'>Table of Contents</a>
-# Fullstack Development Guide
-
-## Table of Contents
-
 1. **Introduction**
    - Overview of Fullstack Development
    - Why Learn Fullstack?
